@@ -4,6 +4,19 @@ For the first lab, we will just focus on getting everyone set up with [ROS 2](ht
 
 In lab on Thursday, we will walk you through the basic concepts for ROS and play with some basic functionalities of it.
 
+## Deliverables
+
+1.   [Link to the ROS package ](https://github.com/fulcrum-zou/Mobile_HRI_Lab_Hub/tree/main/Lab0/src/my_package)
+2.   Five take-aways
+     *   What is ROS? My understanding is that it is a robot specified operating system based on communication.
+     *   The way nodes communicate with each other resembles computer networking, which is easy to understand.
+     *   How to command robots to move? My understanding is to send commands following particular grammar of the package needed.
+     *   Still confused abou how to set up the entire project from scratch. I have difficulty understanding the whole picture of it.
+     *   Still trying to figure out setting local environment on my laptop (MacOS), which would be more convenient. I plan to use virtual machine.
+3.   Feedback
+     *   The steps for setting up the environment and building a simple publisher and subscriber are clear and easy to follow.
+     *   However, it is still difficult to grasp the whole picture of ROS. It is hard to start a whole project from scratch by myself.
+
 ## Preparation Activities
 
 ### Set up your Course Github Repo
@@ -152,7 +165,7 @@ ros2 pkg create --build-type ament_python my_package --dependencies std_msgs rcl
 <summary>What did I just do?</summary>
 <br>
 By sourcing, your system now understands what `ros2` means. ROS comes with a list of prebuild functions for your convenience. Type `ros2 -h` in your terminal to see all of them.
-    
+
 `ros2 pkg create` basically tells ROS that you are creating a package.
 
 `--build-type` indicates what language you will use predominantly for the package. If you mostly use C and C++, you should set this to `ament_cmake`. If your code only contains python, set it to `ament_python`. (read more [here](https://answers.ros.org/question/342118/ament_cmake-vs-ament_python/)). Yes, you mix python and C++ within a package, but in general it's not necessary.
@@ -276,14 +289,14 @@ class HRIPublisher(Node):
         self.publisher_.publish(msg)
         self.get_logger().info('Chatting with the robot: "%s"' % msg.data)
         self.i += 1
-``` 
+```
 Let's decode this line by line. 
 ``` Python
 # First, Let's create a node called `HRIPublisher`
 class HRIPublisher(Node):
 ```
 ROS 2 has a general template for how Node should operate. To create your own customized node, you need to make your class **inherit** the general Node class you just imported. If you are unfamiliar with the concept of inheritance, do a quick search [online](https://www.w3schools.com/python/python_inheritance.asp#:~:text=Inheritance%20allows%20us%20to%20define,class%2C%20also%20called%20derived%20class.)!
- 
+
 ``` Python
     # This function will be called whenever our Node is being created.
     def __init__(self):
