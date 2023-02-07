@@ -1,6 +1,8 @@
 # Lab1 Report
 
->   Yuxiang Chen (yc825) | Xuanyu Fang (xf48) | Yutong Zou (yz2664)
+**Yutong Zou (yz2664)**
+
+>   Collaborator: Yuxiang Chen (yc825) & Xuanyu Fang (xf48)
 
 
 
