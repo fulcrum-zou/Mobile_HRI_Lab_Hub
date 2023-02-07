@@ -93,23 +93,23 @@ We have specifically designed five different robot use cases of the clone bot wi
 
 ### B.1 Angel Bot
 
-<img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab1/pictures/angelbot.JPG" alt="angelbot" style="zoom:15%;" />
+<img src="https://s2.loli.net/2023/02/07/WurUE2IjZBSzHyf.jpg" alt="angelbot.JPG" style="zoom:15%;" />
 
 ### B.2 Butter Bot
 
-<img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab1/pictures/butterbot.JPG" alt="butterbot" style="zoom:15%;" />
+<img src="https://s2.loli.net/2023/02/07/eOpwTxmdQP24Ej6.jpg" alt="butterbot.JPG" style="zoom:15%;" />
 
 ### B.3 Charger Bot
 
-<img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab1/pictures/chargerbot.JPG" alt="chargerbot" style="zoom:15%;" />
+<img src="https://s2.loli.net/2023/02/07/M6CtOj2W3KaHvmb.jpg" alt="chargerbot.JPG" style="zoom:15%;" />
 
 ### B.4 Gaming Bot
 
-<img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab1/pictures/gamingbot.JPG" alt="gamingbot" style="zoom:15%;" />
+<img src="https://s2.loli.net/2023/02/07/wYDe1Flt9ChjgPR.jpg" alt="gamingbot.JPG" style="zoom:15%;" />
 
 ### B.5 Printer Bot
 
-<img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab1/pictures/printerbot.JPG" alt="printerbot" style="zoom:15%;" />
+<img src="https://s2.loli.net/2023/02/07/jkQr8YC46vuHPSc.jpg" alt="printerbot.JPG" style="zoom:15%;" />
 
 
 
