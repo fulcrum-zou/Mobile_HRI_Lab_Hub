@@ -2,7 +2,7 @@
 
 **Yutong Zou (yz2664)**
 
->   Collaborator: Yuxiang Chen (yc825) & Xuanyu Fang (xf48)
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 
 
