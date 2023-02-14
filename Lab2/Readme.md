@@ -1,5 +1,7 @@
 # Then Prototype the Robot
-**List the names and NetID for your partners here.**
+**Yutong Zou (yz2664)**
+
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
 
