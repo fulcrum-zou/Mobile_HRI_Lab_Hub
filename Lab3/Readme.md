@@ -1,5 +1,8 @@
 # Make the Robot Move
-**List the names and NetID for your partners here.**
+
+**Yutong Zou (yz2664)**
+
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 
 In this week's lab, you will lay the foundations for your mobile robot. We will control commercially available hoverboards (Dr. Ju bought these on eBay) with ODrive motor controllers. This week's lab can be challenging. Be prepared to get your hands dirty.
@@ -106,7 +109,7 @@ Reboot the RPi (unplug the power cable and replug it in). Your device should now
 
 > <img src="Images/disassemble_0.jpeg" width="300"/>
 > <img src="Images/disassemble_1.jpeg" width="405"/>
- 
+
 2. Pick up your ODrive from the lab cart. Take a XT60 power cable (pay attention to the shape), insert it to ODrive and tighten it with a [flathead](https://www.merriam-webster.com/dictionary/flathead%20screwdriver#:~:text=noun,its%20top%20compare%20phillips%20screwdriver) screw driver. Be careful with the polarity, **red wire connects to positive, black wire connects to negative.**
 
 
