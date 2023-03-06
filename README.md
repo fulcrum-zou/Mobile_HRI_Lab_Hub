@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Yutong's-Lab-Hub
-=======
+
 # Mobile-HRI-Lab-Hub
+
 >>>>>>> upstream/main
 for [Mobile_HRI_Design](https://github.com/FAR-Lab/Mobile_HRI_Design)
 
