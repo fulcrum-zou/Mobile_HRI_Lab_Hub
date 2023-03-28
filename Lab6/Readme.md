@@ -1,9 +1,12 @@
 # Choreographing Movement
-**List the names and NetID for your partners here.**
+**Yutong Zou (yz2664)**
+
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
+
 ### Watch the following tutorials:
 - [How to crimp wires](https://www.youtube.com/watch?v=SaU00MMjzn0&ab_channel=GrizzlyBuilds)
 
