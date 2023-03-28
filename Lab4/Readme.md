@@ -1,5 +1,7 @@
 # Make the robot see
-**List the names and NetID for your partners here.**
+**Yutong Zou (yz2664)**
+
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 Build off of Lab 3 from last week. This week's material can be done rather quickly.
 

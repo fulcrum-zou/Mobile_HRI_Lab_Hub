@@ -1,5 +1,7 @@
 # Give the robot moves
-**List the names and NetID for your partners here.**
+**Yutong Zou (yz2664)**
+
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 Now, let's control our robots to make them move intuitively. 
 
