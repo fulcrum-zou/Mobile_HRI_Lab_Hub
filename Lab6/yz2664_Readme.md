@@ -18,23 +18,23 @@ https://www.youtube.com/watch?v=AvoLztTPKl8
 
 *   Assembling auxillary wheels
 
-    ![1](/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/1.jpeg)
+    ![1.jpeg](https://s2.loli.net/2023/03/28/lkeOExBQRKT5r9L.jpg)
 
 *   Laser cutting acrylic board to hold parts
 
-    ![2](/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/2.jpeg)
+    ![2.jpeg](https://s2.loli.net/2023/03/28/S9Nca21mWbwPklr.jpg)
 
 *   Assembling parts
 
-    ![3](/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/3.jpeg)
+    ![3.jpeg](https://s2.loli.net/2023/03/28/J5EjuaRPwtmpzhx.jpg)
 
 *   Adding umbrella
 
-    ![4](/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/4.jpeg)
+    ![4.jpeg](https://s2.loli.net/2023/03/28/pmj6hOUKeQzFb9w.jpg)
 
 *   Final look
 
-    <img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/umbrellabot.jpeg" alt="umbrellabot" style="zoom:10%;" /><img src="/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/umbrellabotexample.jpeg" alt="umbrellabotexample" style="zoom:10%;" />
+    ![umbrellabot.jpeg](https://s2.loli.net/2023/03/28/DJCbz8agnTojy1f.jpg)
 
 
 
