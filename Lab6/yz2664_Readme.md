@@ -59,3 +59,9 @@ https://drive.google.com/file/d/1ANH2-pSM0RMlrMGedukMd1g7mwTfA58Z/view?usp=shari
 ## 5 Reflection
 
 During last week's lab, we realised that we need some wheels to ensure the hoverboard not flip over. Therefore, we used laser cutting to make wood sticks to hold the auxillary wheels. Also, we used an acrylic board on top of the hoverboard to hold all the hardwares. However, our design for the umbrella is not stable as we imagined. When the hoverboard moves at a high acceleration, the umbrella would slant and fall down because its center of gravity is high. We plan to make a tripot-like stick to hold the umbrella in future labs.
+
+For the physical prototyping, we have also acquired experiences in how to deal with fragile materials and how to mount things together with more steable structures. A key thing we have learned from our design is how can we use more wheels to stable the original 2 wheel hoverboard. We made connections between two side of the hoverboard with wood, but we later found out that the capability of turning to different directions is actually based on the asymetric movement between two wheels, which will easily break the bridge in between. This is also something we will be iterating on in future labs.
+
+More importantly, we have tested differernt materials from the wooden base to the acrylic platform with differnt adhension materials as well to accomendate different situations and weight of the components we are trying to attach to the structure. The umbrella part was particularly hard, and we are still trying find a better and steadier way to support the umbrella, as well as to design the open mechanism.
+
+Another lesson we have learned during this is how to accurately measure the things and how a seemingly insignificant difference in the measurement could lead to possible break of the whole structure. We have tested multiple designs and iterated a number of versions until we reached this final (somewhat) stable structure.
