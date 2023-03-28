@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1ANH2-pSM0RMlrMGedukMd1g7mwTfA58Z/view?usp=shari
 
 ## 3 Movements Sketch
 
-![sketch](/Users/fulcrum/Zou/CornellTech/Courses/MHRI Mobile Human Robot Interaction Design/Mobile_HRI_Lab_Hub/Lab6/pictures/sketch.JPG)
+![sketch.JPG](https://s2.loli.net/2023/03/28/cW8MQqxpUur4d1z.jpg)
 
 
 
