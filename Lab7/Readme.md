@@ -1,7 +1,8 @@
 # Interact with with people + chatty robot
 
+**Yutong Zou (yz2664)**
 
-**List the names and NetID for your partners here.**
+>   Collaborator: Yuxiang Chen (yc825) & Xy Fang (xf48)
 
 
 In this lab, let's try out some moves with our robots and make them talk!
